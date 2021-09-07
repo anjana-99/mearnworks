@@ -1,0 +1,15 @@
+.p
+{
+    position: sticky;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    margin-top :10%;
+
+}
+
+/* body
+{
+    height: 1400px;
+} */

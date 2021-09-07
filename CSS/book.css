@@ -1,0 +1,61 @@
+.parent
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p
+{
+    width: 20%;
+    border: 1px solid black;
+    
+    
+
+}
+
+.p img
+{
+    height: 500px;
+    width: 100%;
+}
+
+button
+{
+    background-color: darkcyan;
+    height: 30px;
+    width: 80px;
+
+}
+
+.butt
+{
+    justify-content: space-around;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+header
+{
+    display: flex;
+    width: 100%;
+    background-color: #E2C2B9;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center; 
+    
+    
+    
+}
+
+header a
+{
+   
+    padding: 50px;
+    text-decoration: none;
+
+}
+
+

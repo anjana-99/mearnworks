@@ -1,0 +1,128 @@
+
+
+
+.b
+{
+    position: relative;
+    border: 1px solid black;
+    width: 700px;
+    height: 400px;
+    
+}
+
+.b1
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    background-color: violet;
+    
+    
+}
+
+.b2
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    margin-left: 20%;
+    background-color: navy;
+}
+
+.b3
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    margin-left: 40%;
+    background-color: brown;
+}
+
+.b4
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    margin-left: 60%;
+    background-color: palevioletred;
+}
+.b5
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    background-color: green;
+    margin-left: 80%;
+}
+
+.bb
+{
+
+}
+
+
+.bx
+{
+    position: relative;
+    border: 1px solid black;
+    width: 700px;
+    height: 400px;
+    margin-top: 0.6px;
+    margin-left: 702px;
+    
+}
+
+.b1x
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    background-color: violet;
+    
+    
+}
+
+.b2x
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    margin-left: 20%;
+    background-color: navy;
+}
+
+.b3x
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    margin-left: 40%;
+    background-color: brown;
+}
+
+.b4x
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    margin-left: 60%;
+    background-color: palevioletred;
+}
+.b5x
+{
+    position: absolute;
+    border: 1px solid brown;
+    width: 20%;
+    height: 100%;
+    background-color: green;
+    margin-left: 80%;
+}

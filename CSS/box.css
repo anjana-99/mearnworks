@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Klee+One:wght@600&display=swap');
+
+div
+{
+    border: 2px solid #7D1935;
+    font-family: 'Anton', sans-serif;
+    background-color: darkgray;
+    width: 30%;
+    color: #C1CFC0;
+    
+
+}
+
+.s
+{
+    color: #464660;
+    font-family: 'Klee One', cursive;
+    background-color: #F0D9FF;
+}
+
+body
+{
+    background-image: /icecream.jpg;
+    background-size: cover;
+}
